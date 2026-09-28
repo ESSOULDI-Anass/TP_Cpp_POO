@@ -1,0 +1,19 @@
+# Fichiers de compilation
+**/bin/
+**/obj/
+
+# Exécutables
+*.exe
+
+# Bibliothèques générées
+*.dll
+*.a
+*.def
+
+# Fichiers temporaires / système
+*.o
+*.tmp
+*.log
+
+# Fichiers de configuration personnels 
+*.layout

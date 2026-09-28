@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1790612390 source:c:\users\x360\documents\c++\tp4\testpile\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	"PileDLL.h"
+
+1790606850 c:\users\x360\documents\c++\tp4\testpile\piledll.h
+	<string>
+

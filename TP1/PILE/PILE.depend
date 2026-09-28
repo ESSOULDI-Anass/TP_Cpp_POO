@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1790506576 source:c:\users\x360\documents\c++\tp4\pile\main.cpp
+	<iostream>
+	<stdexcept>
+
