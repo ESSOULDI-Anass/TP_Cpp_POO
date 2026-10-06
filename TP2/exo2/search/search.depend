@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1791306563 source:c:\users\x360\documents\c++\c++ avancer\tp2\exo2\search\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+

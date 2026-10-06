@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1791307647 source:c:\users\x360\documents\c++\c++ avancer\tp2\exo1\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<iomanip>
+
