@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1791683769 source:c:\users\x360\documents\c++\c++ avancer\tp2\exo_remplacer\replace\main.cpp
+	<iostream>
+	<string>
+	<chrono>
+	<fstream>
+	<sstream>
+
