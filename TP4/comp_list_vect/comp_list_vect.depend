@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1792714814 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp4\comp_list_vect\main.cpp
+	<iostream>
+	<vector>
+	<list>
+	<fstream>
+	<chrono>
+	<string>
+	<iomanip>
+

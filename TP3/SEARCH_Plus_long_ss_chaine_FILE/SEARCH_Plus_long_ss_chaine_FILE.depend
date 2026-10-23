@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1792420852 source:c:\users\x360\documents\c++\c++ avancer\tp3\search_plus_long_ss_chaine_file\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<chrono>
+
+1792713250 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp3\search_plus_long_ss_chaine_file\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<chrono>
+	<algorithm>
+

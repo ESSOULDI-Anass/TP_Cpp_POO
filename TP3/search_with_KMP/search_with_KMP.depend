@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1792712368 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp3\search_with_kmp\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<string>
+	<chrono>
+

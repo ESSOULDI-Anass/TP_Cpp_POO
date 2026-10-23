@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792714139 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp3\8 queen\8queen\main.cpp
+	<iostream>
+	<vector>
+	<cstdlib>
+	<chrono>
+
