@@ -2,7 +2,7 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6" />
 	<Project>
-		<Option title="arb_binaire_de_recherche" />
+		<Option title="arb_binaire_de_recherche_vs_list" />
 		<Option pch_mode="2" />
 		<Option compiler="gcc" />
 		<Build>
