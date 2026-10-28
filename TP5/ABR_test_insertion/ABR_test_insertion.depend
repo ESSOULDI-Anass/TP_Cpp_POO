@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793187274 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp5\abr_test_insertion\main.cpp
+	<iostream>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

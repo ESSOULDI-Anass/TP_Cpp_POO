@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1793182657 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp5\arb_binaire_de_recherche\main.cpp
+	<iostream>
+	<chrono>
+	<cstdlib>
+	<ctime>
+	<list>
+
