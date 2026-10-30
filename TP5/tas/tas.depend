@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1793361590 source:c:\users\x360\pictures\2026 & 2027\c++\c++ avancer\tp5\tas\main.cpp
+	<iostream>
+	<vector>
+	<queue>
+	<random>
+	<chrono>
+	<iomanip>
+	<cstdint>
+	<algorithm>
+
